@@ -144,6 +144,6 @@ The dataset includes BMW sales data from **2010 to 2024** with **50,000 rows**.
 
 ### Here's a preview of the dashboard
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/DivyaBasantray/BMW-Worldwide-Sales-Records-2010-2024-/main/Screenshot-1.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/DivyaBasantray/BMW-Worldwide-Sales-Records-2010-2024-/main/screenshots/Screenshot-1.png)
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/DivyaBasantray/BMW-Worldwide-Sales-Records-2010-2024-/main/Screenshot-2.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/DivyaBasantray/BMW-Worldwide-Sales-Records-2010-2024-/main/screenshots/Screenshot-2.png)

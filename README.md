@@ -41,7 +41,7 @@ This project showcases skills in data cleaning, EDA, DAX, visualization, and das
 - Electric models contribute strongly to premium revenue.
 
 ### 📈 Trend Insights
-- Revenue shows a steady upward trend from **2010–2023**.  
+- Revenue shows a steady upward trend from **2010–2024**.  
 - Most records fall under **High Sales Classification**.
 
 ### 🖼 Model View Page

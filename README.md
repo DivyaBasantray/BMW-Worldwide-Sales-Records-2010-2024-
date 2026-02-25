@@ -60,7 +60,7 @@ This helps compare model-level performance visually and analytically.
 ## 🛠️ 3. Tech Stack
 
 ### 🗄️ SQL
-- Used for cleaning, standardizing, and preparing raw data.  
+- Used for cleaning, standardizing, and improving the raw data.  
 - Removing duplicates and invalid fields.
 
 ### 🐍 Python (Pandas, Matplotlib, Seaborn)

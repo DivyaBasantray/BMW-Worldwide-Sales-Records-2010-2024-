@@ -1,6 +1,6 @@
 # 🚗 BMW Worldwide Sales Analysis (2010 - 2024)
 
-A complete end-to-end data analytics project exploring BMW’s global sales performance using SQL, Python (Pandas), and Power BI.  
+A complete end-to-end data analytics project exploring BMW’s global sales performance using SQL, Python (Pandas), and Microsoft Power BI.  
 This dashboard helps understand how different BMW models, regions, fuel types, and years contribute to overall sales and revenue.
 
 ---

@@ -6,7 +6,7 @@ This dashboard helps understand how different BMW models, regions, fuel types, a
 ---
 
 ## 🎯 1. Project Objective
-The goal of this project was to analyze BMW’s sales dataset and build an interactive Power BI dashboard that answers important business questions:
+The goal of this project was to analyze BMW’s sales dataset and build an interactive Microsoft Power BI dashboard that answers important business questions:
 
 - Which BMW models generate the most revenue?
 - Which regions contribute the highest sales?

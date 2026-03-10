@@ -114,7 +114,7 @@ The dataset includes BMW sales data from **2010 to 2024** with **50,000 rows**.
 
 👩‍💻 Created by: https://github.com/DivyaBasantray 
 
-📅 Tools Used: SQL | Python | Power BI 
+📅 Tools Used: SQL | Python(Pandas) | Power BI 
 
 🔧 Project Type: Sales | Data Visualization
 

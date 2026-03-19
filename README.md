@@ -82,7 +82,7 @@ This helps compare model-level performance visually and analytically.
 ## 📘 4. Dashboard Purpose & Features
 
 ### 🧩 Business Purpose
-BMW needs insight into how models, regions, and fuel types perform to guide decisions in marketing, production, and pricing.
+BMW needs insight into how models, regions, and fuel types perform to guide the decisions in marketing, production, and pricing.
 
 ### 🚀 Dashboard Goals
 - Provide a clear overview of overall sales and revenue.  

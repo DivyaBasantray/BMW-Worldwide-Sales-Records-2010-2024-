@@ -110,11 +110,11 @@ BMW needs insight into how models, regions, and fuel types perform to guide the 
 
 The dataset includes BMW sales data from **2010 to 2024** with **50,000 rows**.
 
-Dataset Source: https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-records-20102024 
+**Dataset Source:** https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-records-20102024 
 
-Tools Used: SQL | Python(Pandas) | Power BI 
+**Tools Used:** SQL | Python(Pandas) | Power BI 
 
-Project Type: Sales | Data Visualization
+**Project Type:** Sales | Data Visualization
 
 
 ### Columns Included
@@ -130,7 +130,6 @@ Project Type: Sales | Data Visualization
 - Sales Volume
 - Revenue  
 - Sales Classification  
-
 ### Data Preparation
 - Cleaned in SQL  
 - Exploratory data analysis in Python  
